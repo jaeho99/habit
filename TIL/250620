@@ -1,0 +1,22 @@
+소프트웨어 아키텍쳐 4+1 뷰 구성요소
+유스케이스 뷰, 논리 뷰, 프로세스 뷰, 구현 뷰, 배포 뷰
+
+소프트웨어 아키텍쳐 패턴 유형
+계층화 패턴, 클라이언트-서버 패턴, 파이프-필터 패턴, 브로커 패턴, 모델-뷰-컨트롤러 패턴(MVC)
+
+소프트웨어 아키텍쳐 비용 평가 모델 종류
+SAAM(Software Architecture Analysis Method)
+ATAM(Architecture Trade-off Analysis Method)
+CBAM(Cost Benefit Analysis Method)
+ADR(Active Design Review)
+ARID(Active Reviews for Intermediate Designs)
+
+
+
+내일 공부할 내용
+정처기 실기
+디자인 패턴
+
+프론트
+깃허브
+Spring OpenAi
