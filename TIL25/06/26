@@ -1,0 +1,19 @@
+class HelloWorld {
+  public static void main(String[] args) {
+    int a = 0;
+      for(int i = 1 ; i < 999; i++) {
+        if(i % 3 == 0 && i % 2 != 0){
+          a = i;
+        }
+      }
+    System.out.print(a);
+  }
+}
+
+
+해석
+1 ~ 998까지의 수 중 3으로 나눴을때 나머지가 0이 되면서 2로 나누었을때 0이 아닌것인 수 중 가장 큰 수
+
+
+출력:
+993
